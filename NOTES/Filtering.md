@@ -1,9 +1,11 @@
 FILTERING
  Showing the rows that really matter and hiding the rest
  We use the query WHERE (sometimes followed by conditions)
+
  The following are examples of conditions
  *AND*
  both conditions must be true
+ 
 
  *OR*
  at least one condition must be true
